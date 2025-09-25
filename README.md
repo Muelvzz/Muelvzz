@@ -42,6 +42,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Muelvzz/Muelvzz/output/snake.svg" alt="Snake animation" />
-
 ###
