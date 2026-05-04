@@ -1,6 +1,12 @@
 # ⚙️ Muelvin Lopez
 I'm a Computer Science student from the Philippines, I am seeking job opportunities that will enhance my skillsets in the tech field.
 
+<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=muelvzz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+
 While I am not looking for jobs, I am expanding my skillset by building projects and networking to other people. 
 
 I am currently building **"Glint"** which is a backend heavy app that will let the the user save and display their readme files using **FastAPI** and **PostgreSQL**
@@ -17,9 +23,9 @@ I am currently building **"Glint"** which is a backend heavy app that will let t
 <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=muelvzz&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=muelvzz&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=muelvzz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=muelvzz&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+<br/>
 
 ---
 ## 🌐 Socials:
