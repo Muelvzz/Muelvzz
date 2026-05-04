@@ -3,7 +3,7 @@ I'm a Computer Science student from the Philippines, I am seeking job opportunit
 
 While I am not looking for jobs, I am expanding my skillset by building projects and networking to other people. 
 
-I am currently building **"Glint"** which is a backend heavy app that will let the the user save and display their readme files using ***FastAPI** and **PostgreSQL**
+I am currently building **"Glint"** which is a backend heavy app that will let the the user save and display their readme files using **FastAPI** and **PostgreSQL**
 
 *Project Link:* https://markdown-note-taking-app-delta.vercel.app/
 
