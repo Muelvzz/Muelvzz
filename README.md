@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⚙️ Muelvin Lopez
 I'm a Computer Science student from the Philippines, I am seeking job opportunities that will enhance my skillsets in the tech field.
 
 While I am not looking for jobs, I am expanding my skillset by building projects and networking to other people. 
